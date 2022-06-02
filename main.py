@@ -1,7 +1,7 @@
 import discord
 from stockx import search
 
-token = "OTgxOTI4MDkwOTA3MzI4NTUz.GEqzVr.zEHn0Yk5dIg737o9RfOT27hCCoumIW2YDgA6mU"
+token = "" #bot token goes here
 
 client = discord.Client()
 
