@@ -1,3 +1,11 @@
-Discord StockX Bot
+# Discord StockX Bot
 
-This project is a discord bot that uses the StockX API to return data on a particular product.
+Returns data on specified product using StockX API.
+
+## Commands
+
+Returns discord embed of product specified
+
+```bash
+  !stockx <name of product>
+```
